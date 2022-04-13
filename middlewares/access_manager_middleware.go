@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"gitlab.com/utopiops-water/framework/models"
-	"gitlab.com/utopiops-water/framework/utils"
+	"github.com/utopiops/framework/models"
+	"github.com/utopiops/framework/utils"
 )
 
 const (
