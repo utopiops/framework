@@ -8,7 +8,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"gitlab.com/utopiops-water/framework/utils"
+	"github.com/utopiops/framework/utils"
 )
 
 const SECRET = "secret"

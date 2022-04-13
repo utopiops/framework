@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"gitlab.com/utopiops-water/framework/utils"
+	"github.com/utopiops/framework/utils"
 )
 
 type IdsMiddleware struct {

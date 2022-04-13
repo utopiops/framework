@@ -1,4 +1,4 @@
-module gitlab.com/utopiops-water/framework
+module github.com/utopiops/framework
 
 go 1.13
 
